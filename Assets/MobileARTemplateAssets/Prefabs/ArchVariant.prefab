@@ -10,9 +10,22 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1533855424687958027, guid: 13241d599ff10413498d04c6d683ca10,
         type: 3}
-      propertyPath: m_Materials.Array.data[0]
+      propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 83eabfe673263a445972586e5d8b56ee, type: 2}
+      objectReference: {fileID: -6538903991835684241, guid: 46fb91b9001e039499417ac7513b70d1,
+        type: 3}
+    - target: {fileID: 2757363224943844951, guid: 13241d599ff10413498d04c6d683ca10,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -8545447256379345787, guid: 46fb91b9001e039499417ac7513b70d1,
+        type: 3}
+    - target: {fileID: 5471771776913026620, guid: 13241d599ff10413498d04c6d683ca10,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -8545447256379345787, guid: 46fb91b9001e039499417ac7513b70d1,
+        type: 3}
     - target: {fileID: 5811970893536397571, guid: 13241d599ff10413498d04c6d683ca10,
         type: 3}
       propertyPath: m_Name
